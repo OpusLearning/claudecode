@@ -1,5 +1,7 @@
 # claudecode
 
+[![CI](https://github.com/OpusLearning/claudecode/actions/workflows/ci.yml/badge.svg)](https://github.com/OpusLearning/claudecode/actions/workflows/ci.yml)
+
 A simple code tokenizer written in TypeScript. Breaks source code strings into typed tokens: keywords, identifiers, numbers, strings, operators, punctuation, comments, and whitespace.
 
 ## Install
